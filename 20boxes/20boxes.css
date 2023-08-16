@@ -1,0 +1,37 @@
+.container1 {
+   padding: 0;
+   border: 1px solid rgb(51, 153, 221);
+   display: flex; 
+   width: 800px;
+   height: 150px;
+   list-style-type: none;
+   align-items: center; 
+   justify-content: space-between; 
+   padding-right: 15px; 
+}
+
+.container2 {
+   padding: 0;
+   border: 1px solid rgb(51, 153, 221);
+   display: flex; 
+   width: 800px;
+   height: 150px;
+   list-style-type: none;
+   align-items: center; 
+   justify-content: space-between;  
+   background-color: rgb(223, 96, 22);
+   padding-right: 15px; 
+}
+.item {
+  background: rgb(51, 153, 221);
+  width: 50px;
+  height: 50px;
+  margin-left: 15px;
+}
+
+  .item1 {
+  background: purple;
+  width: 50px;
+  height: 50px;
+  margin-left: 15px;
+  }
