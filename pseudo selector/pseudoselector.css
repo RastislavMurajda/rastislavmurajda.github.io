@@ -1,0 +1,23 @@
+#color:hover { 
+background: rgb(179, 92, 21);
+text-decoration: none;
+}
+
+main{
+    width: 300px;
+    text-align: left;
+    display: block;
+    border: 1xp solid black;
+}
+
+div{
+    border: 2xp solid black;
+}
+
+fieldset {
+    border-bottom: 0;
+}
+
+.container {
+    border-top: 0;
+}
